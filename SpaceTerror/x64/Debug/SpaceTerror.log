@@ -1,0 +1,11 @@
+﻿  Bullets.cpp
+  Character.cpp
+  Enemy.cpp
+C:\Users\yusuf\Desktop\cpp-sfml-projects\SpaceTerror\SpaceTerror\Enemy.cpp(8,41): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\yusuf\Desktop\cpp-sfml-projects\SpaceTerror\SpaceTerror\Enemy.cpp(20,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\yusuf\Desktop\cpp-sfml-projects\SpaceTerror\SpaceTerror\Enemy.cpp(60,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yusuf\Desktop\cpp-sfml-projects\SpaceTerror\SpaceTerror\Enemy.cpp(60,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+  Source.cpp
+  Generating Code...
+  SpaceTerror.vcxproj -> C:\Users\yusuf\Desktop\cpp-sfml-projects\SpaceTerror\x64\Debug\SpaceTerror.exe
